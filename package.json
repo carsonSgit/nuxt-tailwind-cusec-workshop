@@ -10,7 +10,10 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@nuxt/image": "^1.9.0",
+    "@nuxtjs/tailwindcss": "^6.12.2",
     "nuxt": "^3.15.1",
+    "pokenode-ts": "^1.20.0",
     "vue": "latest",
     "vue-router": "latest"
   }
