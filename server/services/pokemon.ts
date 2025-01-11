@@ -1,7 +1,7 @@
 import { EventHandlerRequest, H3Event } from "h3"
 import { PokemonClient } from "pokenode-ts";
-import { GenericReturn } from "~/shared/types/genericReturn";
-import { PokemonAPICreateQuestionReturn } from "~/shared/types/pokemon";
+import { GenericReturn } from "~/shared/types/genericReturn.types";
+import { PokemonAPICreateQuestionReturn } from "~/shared/types/pokemon.types";
 import { randomNumber } from "~/shared/utils/number";
 
 let pokemons: string[] = []

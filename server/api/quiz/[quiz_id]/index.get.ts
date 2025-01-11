@@ -1,7 +1,7 @@
 import { db } from "~/server/database/db"
 import { usePokemonAPI } from "~/server/services/pokemon"
-import { GenericReturn } from "~/shared/types/genericReturn"
-import { PokemonAPICreateQuestionReturn } from "~/shared/types/pokemon"
+import { GenericReturn } from "~/shared/types/genericReturn.types"
+import { PokemonAPICreateQuestionReturn } from "~/shared/types/pokemon.types"
 
 export default defineEventHandler(async (event): Promise<GenericReturn<PokemonAPICreateQuestionReturn>> => {
     const pokemon_api = usePokemonAPI(event)

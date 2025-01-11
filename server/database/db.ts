@@ -1,5 +1,5 @@
-import { GenericReturn } from "~/shared/types/genericReturn"
-import { Quiz, QuizAPICreateParams } from "~/shared/types/quiz"
+import { GenericReturn } from "~/shared/types/genericReturn.types"
+import { Quiz, QuizAPICreateParams } from "~/shared/types/quiz.types"
 
 const quiz: Quiz[] = []
 
