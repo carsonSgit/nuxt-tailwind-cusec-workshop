@@ -2,8 +2,8 @@
 
 ## 🏬 Built by 
 > Hyperlinks lead to LinkedIn profiles*
--  **[{Carson Spriggs-Audet}]({linkedinURL})** BA, Economics @ Concordia University 💻
--  **[{Kelly Nguyen}]({linkedinURL})** BCSc, Combined Sciences @ University of British Colombia 💻
+-  **[Carson Spriggs-Audet](https://www.linkedin.com/in/carsonspriggs/)** BA, Economics @ Concordia University 💻
+-  **[Kelly Nguyen](https://www.linkedin.com/in/kelgi/)** BSc, Combined Major in Sciences @ University of British Colombia 💻
 
 ## 🤔 What is this? 
 
