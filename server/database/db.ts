@@ -4,7 +4,7 @@ import { Quiz, QuizAPICreateParams } from "~/shared/types/quiz"
 const quiz: Quiz[] = []
 
 export const db = () => {
-  const create = async (data: QuizAPICreateParams): Promise<GenericReturn<QuizAPIReturn>> => {
+  const create = async (data: QuizAPICreateParams): Promise<GenericReturn<Quiz>> => {
     const q: Quiz = {
       id: new Date().getTime().toString(),
       created_at: new Date(),

@@ -12,10 +12,10 @@ let pokemons_informations: {
 const POKEMON_LIMITS = 151
 
 export const usePokemonAPI = ((event: H3Event<EventHandlerRequest>) => {
-        const api = new PokemonClient();
+    const api = new PokemonClient();
 
-        const createAnswers = (pokemon_name_to_exclude: string) => {
-            let possible_answers: string[] = [];
+    const createAnswers = (pokemon_name_to_exclude: string) => {
+        let possible_answers: string[] = [];
 
         while (possible_answers.length < 3) {
             let random_answer = pokemons[randomNumber(0, POKEMON_LIMITS - 1)];
@@ -85,4 +85,3 @@ export const usePokemonAPI = ((event: H3Event<EventHandlerRequest>) => {
         createOneQuestion
     }
 })
-
