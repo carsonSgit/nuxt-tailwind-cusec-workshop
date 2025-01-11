@@ -1,75 +1,13 @@
-# Nuxt Minimal Starter
+# Nuxt-Tailwind Workshop @ CUSEC 2025
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+## 🏬 Built by 
+> Hyperlinks lead to LinkedIn profiles*
+-  **[{Carson Spriggs-Audet}]({linkedinURL})** BA, Economics @ Concordia University 💻
+-  **[{Kelly Nguyen}]({linkedinURL})** BCSc, Combined Sciences @ University of British Colombia 💻
 
-## Setup
+## 🤔 What is this? 
 
-Make sure to install dependencies:
+> [!NOTE]  
+> **{Pokemon Guessor}** was made during the Nuxt-Tailwind Workshop at CUSEC 2025 held by @[Florent Giraud](https://github.com/flozero), Senior SoEn @ BusBud
 
-```bash
-# npm
-npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+This is a project built as an introduction to the Nuxt infrastructure and development functionality. The Workshop GitHub Repo can be found [here](https://github.com/flozero/pokemon-guessor).
